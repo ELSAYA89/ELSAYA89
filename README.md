@@ -56,7 +56,6 @@
 <h2 align="center">📊 Mis Estadísticas</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ELSAYA89&show_icons=true&theme=dracula&hide_border=false" height="170" alt="stats card" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ELSAYA89&theme=dracula&border_radius=10" height="170" alt="streak graph" />
 </div>
 
