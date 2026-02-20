@@ -4,6 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=ELSAYA89&label=Perfil%20Visto&color=0e75b6&style=flat" alt="vistas del perfil" />
 </p>
 
+<!-- Social Buttons -->
 <div align="center">
   <a href="https://discord.com/users/el_saya" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
@@ -18,12 +19,14 @@
 
 <br />
 
+<!-- Quote -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Frase" />
 </div>
 
 <hr />
 
+<!-- About Me -->
 <h2 align="center">🚀 Sobre Mí</h2>
 
 <div align="center">
@@ -52,6 +55,7 @@
 
 <hr />
 
+<!-- Tech Stack -->
 <h2 align="center">🛠️ Mi Stack Tecnológico</h2>
 
 <div align="center">
@@ -76,13 +80,22 @@
 
 <hr />
 
+<!-- GitHub Stats -->
 <h2 align="center">📊 Estadísticas de GitHub</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ELSAYA89&show_icons=true&theme=dracula&border_radius=10" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELSAYA89&layout=compact&theme=dracula&border_radius=10" height="170" alt="languages graph" />
+
+  <!-- STATS FIX -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ELSAYA89&show_icons=true&theme=dracula&border_radius=10&cache_seconds=1800" height="170" alt="stats graph" />
+
+  <!-- LANGUAGES FIX -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ELSAYA89&layout=compact&theme=dracula&border_radius=10&cache_seconds=1800" height="170" alt="languages graph" />
+
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ELSAYA89&theme=dracula&border_radius=10" height="170" alt="streak graph" />
+
+  <!-- STREAK FIX (Heroku murió) -->
+  <img src="https://streak-stats.demolab.com/?user=ELSAYA89&theme=dracula&border_radius=10" height="170" alt="streak graph" />
+
 </div>
 
 <p align="center">
