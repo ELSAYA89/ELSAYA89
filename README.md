@@ -1,5 +1,10 @@
 <h1 align="center">👋 Hola, soy @ELSAYA89</h1>
 
+<!-- FRASE PRINCIPAL ARRIBA -->
+<p align="center">
+  <em>"El código es como el humor. Cuando tienes que explicarlo, es malo."</em>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ELSAYA89&label=Perfil%20Visto&color=0e75b6&style=flat" alt="vistas del perfil" />
 </p>
@@ -19,14 +24,13 @@
 
 <br />
 
-<!-- Quote -->
+<!-- Quote random -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Frase" />
 </div>
 
 <hr />
 
-<!-- About Me -->
 <h2 align="center">🚀 Sobre Mí</h2>
 
 <div align="center">
@@ -55,50 +59,35 @@
 
 <hr />
 
-<!-- Tech Stack -->
 <h2 align="center">🛠️ Mi Stack Tecnológico</h2>
 
 <div align="center">
   <h3>💻 Desarrollo de Aplicaciones Multiplataforma (DAM)</h3>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="js" />
-  <img src="https://img.shields.io/badge/XML-00599C?style=flat&logo=xml&logoColor=white" height="40" alt="xml" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="html5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="css3" />
-  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://img.shields.io/badge/XML-00599C?style=flat&logo=xml&logoColor=white" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" />
+
   <br><br>
-  
+
   <h3>🐧 Sistemas Microinformaticos y Redes (SMR)</h3>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="linux" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" height="40" alt="debian" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40" alt="bash" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" alt="docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" />
 </div>
 
 <hr />
 
-<!-- GitHub Stats -->
 <h2 align="center">📊 Estadísticas de GitHub</h2>
 
 <div align="center">
-
-  <!-- STATS FIX -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ELSAYA89&show_icons=true&theme=dracula&border_radius=10&cache_seconds=1800" height="170" alt="stats graph" />
-
-  <!-- LANGUAGES FIX -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ELSAYA89&layout=compact&theme=dracula&border_radius=10&cache_seconds=1800" height="170" alt="languages graph" />
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ELSAYA89&show_icons=true&theme=dracula&border_radius=10&cache_seconds=1800" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ELSAYA89&layout=compact&theme=dracula&border_radius=10&cache_seconds=1800" height="170" />
   <br>
-
-  <!-- STREAK FIX (Heroku murió) -->
-  <img src="https://streak-stats.demolab.com/?user=ELSAYA89&theme=dracula&border_radius=10" height="170" alt="streak graph" />
-
+  <img src="https://streak-stats.demolab.com/?user=ELSAYA89&theme=dracula&border_radius=10" height="170" />
 </div>
-
-<p align="center">
-  <br />
-  <em>"El código es como el humor. Cuando tienes que explicarlo, es malo."</em>
-</p>
