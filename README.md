@@ -16,6 +16,8 @@
 </a>
 </div>
 
+<br />
+
 <div align="center">
 <img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Ftype%3Dhorizontal%26theme%3Ddracula" alt="Frase inspiradora" />
 </div>
@@ -76,5 +78,6 @@
 </div>
 
 <p align="center">
-"El código es como el humor. Cuando tienes que explicarlo, es malo."
+<br />
+<em>"El código es como el humor. Cuando tienes que explicarlo, es malo."</em>
 </p>
