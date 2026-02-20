@@ -110,16 +110,14 @@ Docker, Spring Boot y arquitectura backend
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 Estadísticas de GitHub</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ELSAYA89&show_icons=true&theme=dracula&border_radius=10" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELSAYA89&layout=compact&theme=dracula&border_radius=10" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ELSAYA89&theme=dracula&border_radius=10" height="170"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ELSAYA89&show_icons=true&theme=dracula&border_radius=10&cache_seconds=1800" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ELSAYA89&layout=compact&theme=dracula&border_radius=10&cache_seconds=1800" height="170" alt="languages graph" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=ELSAYA89&theme=dracula&border_radius=10" height="170" alt="streak graph" />
+</div>
 
 ---
 
