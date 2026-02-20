@@ -28,28 +28,29 @@
 
 <div align="center">
   <p>
-    👨‍💻 Entusiasta del desarrollo de software y la administración de sistemas.<br>
-    🔭 Actualmente trabajando en proyectos de <b>Python</b> y <b>Automatización</b>.<br>
-    🌱 Aprendiendo constantemente sobre <b>Docker</b> y despliegue en entornos <b>Linux</b>.<br>
-    ⚡ "Si funciona, no lo toques... pero si puedes optimizarlo, hazlo."
+    🎓 Titulado en <b>SMR</b> (Sistemas Microinformáticos y Redes).<br>
+    💻 Actualmente estudiante de <b>DAM</b> (Desarrollo de Aplicaciones Multiplataforma).<br>
+    📚 Enfocado en dominar <b>Java, Linux, XML/XSD</b> y administración de <b>SQL Server</b>.<br>
+    ⚡ Combinando el mundo de los sistemas con la pasión por el desarrollo.
   </p>
 </div>
 
 <h2 align="center">🛠️ Mi Stack Tecnológico</h2>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="45" alt="java" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" alt="python" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45" alt="js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="45" alt="java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="45" alt="bash" />
+  <img src="https://img.shields.io/badge/XML-00599C?style=flat&logo=xml&logoColor=white" height="45" alt="xml" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45" alt="html5" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45" alt="css3" />
   <br><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="45" alt="linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" height="45" alt="debian" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="45" alt="bash" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="sqlserver" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="45" alt="docker" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="45" alt="vscode" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" height="45" alt="debian" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="sqlserver" />
 </div>
 
 <h2 align="center">📊 Mis Estadísticas</h2>
