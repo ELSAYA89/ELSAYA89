@@ -35,27 +35,53 @@
   </p>
 </div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🔭 Actualmente...</h3>
+        <p>Desarrollando aplicaciones de escritorio en <b>Java</b> y gestionando bases de datos relacionales.</p>
+      </td>
+      <td align="center" width="50%">
+        <h3>🌱 Aprendiendo</h3>
+        <p>Profundizando en <b>Docker</b> para entornos de desarrollo y <b>Spring Boot</b>.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<hr />
+
 <h2 align="center">🛠️ Mi Stack Tecnológico</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="45" alt="java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" alt="python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45" alt="js" />
-  <img src="https://img.shields.io/badge/XML-00599C?style=flat&logo=xml&logoColor=white" height="45" alt="xml" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45" alt="html5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45" alt="css3" />
+  <h3>💻 Desarrollo (DAM)</h3>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="js" />
+  <img src="https://img.shields.io/badge/XML-00599C?style=flat&logo=xml&logoColor=white" height="40" alt="xml" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" alt="css3" />
+  
   <br><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="45" alt="linux" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" height="45" alt="debian" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="45" alt="bash" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="sqlserver" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="45" alt="docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="45" alt="vscode" />
+  
+  <h3>🐧 Sistemas & DevOps (SMR)</h3>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" height="40" alt="debian" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40" alt="bash" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sqlserver" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
 </div>
 
-<h2 align="center">📊 Mis Estadísticas</h2>
+<hr />
+
+<h2 align="center">📊 Estadísticas de GitHub</h2>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ELSAYA89&show_icons=true&theme=dracula&border_radius=10" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELSAYA89&layout=compact&theme=dracula&border_radius=10" height="170" alt="languages graph" />
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ELSAYA89&theme=dracula&border_radius=10" height="170" alt="streak graph" />
 </div>
 
