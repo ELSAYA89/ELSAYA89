@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hola, soy @el_saya</h1>
+<h1 align="center">👋 Hola, soy @ELSAYA89</h1>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Del_saya%26label%3DPerfil%2520Visto%26color%3D0e75b6%26style%3Dflat" alt="vistas del perfil" />
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DELSAYA89%26label%3DPerfil%2520Visto%26color%3D0e75b6%26style%3Dflat" alt="vistas del perfil" />
 </p>
 
 <div align="center">
@@ -11,7 +11,7 @@
 <a href="https://www.google.com/search?q=https://www.instagram.com/el_saya./" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
 </a>
-<a href="https://www.google.com/search?q=https://github.com/el_saya" target="_blank">
+<a href="https://www.google.com/search?q=https://github.com/ELSAYA89" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/static/v1%3Fmessage%3DGitHub%26logo%3Dgithub%26label%3D%26color%3D181717%26logoColor%3Dwhite%26labelColor%3D%26style%3Dfor-the-badge" height="25" alt="github logo" />
 </a>
 </div>
@@ -55,26 +55,26 @@
 <h2 align="center">📊 Mis Estadísticas</h2>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Del_saya%26show_icons%3Dtrue%26theme%3Ddracula%26rank_icon%3Dgithub%26border_radius%3D10" height="180" alt="stats card" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Del_saya%26layout%3Dcompact%26theme%3Ddracula%26border_radius%3D10" height="180" alt="languages card" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DELSAYA89%26show_icons%3Dtrue%26theme%3Ddracula%26rank_icon%3Dgithub%26border_radius%3D10" height="180" alt="stats card" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DELSAYA89%26layout%3Dcompact%26theme%3Ddracula%26border_radius%3D10" height="180" alt="languages card" />
 </div>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3Del_saya%26theme%3Ddracula%26hide_border%3Dfalse%26border_radius%3D10" height="160" alt="streak graph" />
+<img src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3DELSAYA89%26theme%3Ddracula%26hide_border%3Dfalse%26border_radius%3D10" height="160" alt="streak graph" />
 </div>
 
 <h2 align="center">👾 Contribuciones</h2>
 
 <div align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/el_saya/el_saya/output/pacman-contribution-graph-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/el_saya/el_saya/output/pacman-contribution-graph.svg">
-<img alt="pacman contribution graph" src="https://www.google.com/search?q=https://raw.githubusercontent.com/el_saya/el_saya/output/pacman-contribution-graph.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/ELSAYA89/ELSAYA89/output/pacman-contribution-graph-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/ELSAYA89/ELSAYA89/output/pacman-contribution-graph.svg">
+<img alt="pacman contribution graph" src="https://www.google.com/search?q=https://raw.githubusercontent.com/ELSAYA89/ELSAYA89/output/pacman-contribution-graph.svg">
 </picture>
 </div>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app%3Fusername%3Del_saya%26theme%3Ddracula%26column%3D7%26row%3D1%26margin-w%3D15%26no-bg%3Dfalse%26no-frame%3Dfalse" alt="trophy graph" />
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app%3Fusername%3DELSAYA89%26theme%3Ddracula%26column%3D7%26row%3D1%26margin-w%3D15%26no-bg%3Dfalse%26no-frame%3Dfalse" alt="trophy graph" />
 </div>
 
 <p align="center">
