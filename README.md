@@ -22,6 +22,19 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Frase" />
 </div>
 
+<hr />
+
+<h2 align="center">🚀 Sobre Mí</h2>
+
+<div align="center">
+  <p>
+    👨‍💻 Entusiasta del desarrollo de software y la administración de sistemas.<br>
+    🔭 Actualmente trabajando en proyectos de <b>Python</b> y <b>Automatización</b>.<br>
+    🌱 Aprendiendo constantemente sobre <b>Docker</b> y despliegue en entornos <b>Linux</b>.<br>
+    ⚡ "Si funciona, no lo toques... pero si puedes optimizarlo, hazlo."
+  </p>
+</div>
+
 <h2 align="center">🛠️ Mi Stack Tecnológico</h2>
 
 <div align="center">
@@ -42,6 +55,7 @@
 <h2 align="center">📊 Mis Estadísticas</h2>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ELSAYA89&show_icons=true&theme=dracula&hide_border=false" height="170" alt="stats card" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ELSAYA89&theme=dracula&border_radius=10" height="170" alt="streak graph" />
 </div>
 
