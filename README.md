@@ -8,7 +8,7 @@
   <a href="https://discord.com/users/el_saya" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
   </a>
-  <a href="https://www.instagram.com/el_saya./" target="_blank">
+  <a href="https://www.instagram.com/el_saya._/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
   <a href="https://github.com/ELSAYA89" target="_blank">
@@ -42,20 +42,7 @@
 <h2 align="center">📊 Mis Estadísticas</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ELSAYA89&show_icons=true&theme=dracula&border_radius=10" height="170" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELSAYA89&layout=compact&theme=dracula&border_radius=10" height="170" alt="languages card" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ELSAYA89&theme=dracula&border_radius=10" height="170" alt="streak graph" />
-</div>
-
-<h2 align="center">🏆 Contribuciones</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ELSAYA89&theme=dracula&no-bg=true&column=6" alt="trophies" />
 </div>
 
 <p align="center">
