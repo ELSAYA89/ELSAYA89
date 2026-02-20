@@ -55,7 +55,7 @@
 <h2 align="center">🛠️ Mi Stack Tecnológico</h2>
 
 <div align="center">
-  <h3>💻 Desarrollo (DAM)</h3>
+  <h3>💻 Desarrollo de Aplicaciones Multiplataforma (DAM)</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="java" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="python" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="js" />
@@ -65,7 +65,7 @@
   
   <br><br>
   
-  <h3>🐧 Sistemas & DevOps (SMR)</h3>
+  <h3>🐧 Sistemas Microinformaticos y Redes (SMR)</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="linux" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" height="40" alt="debian" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40" alt="bash" />
